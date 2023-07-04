@@ -123,7 +123,7 @@
 
 <tr>
 <td>
-<img src="/Screenshots/wx.png" width=270 >
+<img src="https://ghproxy.com/https://github.com/unexpecteds/TelegramHelper/blob/main/Screenshots/wx.png" width=270 >
 </td>
 </tr>
 
