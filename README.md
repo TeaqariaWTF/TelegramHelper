@@ -2,7 +2,7 @@
 电报助手
 
 # 注意
-你必须关注 [Re: Fantasy City](https://t.me/ReFantasyCity) 频道才能正常运行本模块
+你必须关注 [Re: Fantasy City](https://t.me/ReFantasyCity) 频道才能正常运行该模块，黑名单用户无法使用该模块
 
 ---
 
@@ -100,6 +100,7 @@
 - 禁用敏感内容过滤
 - 删除 Telegram 账户
 - 小丑模式(拉黑你的人头像显示为小丑)
+- 黑名单(此列表群组用户、群组、频道发送的消息在其他群组不可见)
 
 ---
 
