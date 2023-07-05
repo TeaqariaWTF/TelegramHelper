@@ -1,8 +1,12 @@
 {
-    "-1935601549": [
+    "-1182070904": [
         {
-            "target": "测试",
-            "replacement": "test"
+            "target": "無名",
+            "replacement": "无名"
+        },
+        {
+            "target": "私密",
+            "replacement": "私蜜"
         }
     ]
 }
