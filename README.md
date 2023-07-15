@@ -1,5 +1,8 @@
 # TelegramHelper
-电报助手
+- 电报助手
+- 此项目已停止维护
+- 此项目已停止维护
+- 此项目已停止维护
 
 # 注意
 - 仅支持基于 Telegram 官方开源的官方版和第三方，且类名、参数名、方法名不被混淆、删减，方法传输的参数不被添加、减少
@@ -117,24 +120,5 @@
 * 对于使用该Xposed模块所产生的任何问题，作者不提供任何形式的技术支持和解决方案。
 
 请在使用该Xposed模块之前认真阅读以上免责声明并自行权衡风险和利益，如有异议请勿使用。如果您使用了该Xposed模块，即代表您已经完全接受本免责声明。
-
----
-
-## 打赏
-
-## 如果觉得这个模块对您有用，可扫描下方二维码随意打赏，感谢您的支持
-
-<table>
-<tr>
-<td align=center>微信</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://ghproxy.com/https://github.com/unexpecteds/TelegramHelper/blob/main/Screenshots/wx.png" width=270 >
-</td>
-</tr>
-
-</table>
 
 ---
